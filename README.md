@@ -1,6 +1,6 @@
 # STA-518-Project-Proposal
 
-##Analysis of New York City Property Sale##
+**Analysis of New York City Property Sale**
 
 ##Author: Diksha Shrestha##
 
